@@ -1,0 +1,5 @@
+learning = input("How is the program going?")
+if learning =="great" 
+  print ("Bravo! keep at it!")
+else: 
+print ("I am rooting for you techy lady!. A step every day.")
